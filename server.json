@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2022-08-08T23:38:46.857Z",
       "id": 6
+    },
+    {
+      "description": "Desenvolvimento",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-08T23:53:43.700Z",
+      "id": 7
     }
   ]
 }
